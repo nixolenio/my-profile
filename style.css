@@ -1,0 +1,69 @@
+
+h1{
+font-size: 60px;
+text-align: center;
+}
+
+img{
+width: 200px;
+border-radius: 50%;
+margin-left: 1100px;
+
+}
+
+h2{
+	font-size: 30px;
+	color: rgb(30,30,30);
+	text-align: center;
+	font-weight: bold;
+	font-family: "Helvetica", sans-serif;
+}
+
+ul{
+font-size: 25px;
+font-family:  sans-serif;
+}
+
+#banner{
+	background-image: url('images/ingeniero.jpg');
+	background-size: cover;
+	background-position: center;
+	font-family: "Helvetica", stencil;
+	}
+
+
+
+a:hover {
+	color:green;
+}
+
+#texto{
+	color: rgb(0,0,0);
+	font-size: 30px;
+	text-align: justify;
+	margin: 50px;
+	background-color: white;
+	margin: 50px 20px;
+	padding: 10px;
+	border: 10px solid red;
+	border-radius: 10%;
+	box-shadow: 10px 10px 10px grey;
+}
+
+body{
+	background-color: rgba(0,0,0,0.1);
+}
+
+a{
+	color: rgb(0,0,0);
+	font-size: 30px;
+	text-align: justify;
+	margin: 50px;
+	background-color: white;
+	margin: 50px 20px;
+	padding: 10px;
+	border: 10px solid red;
+	border-radius: 10%;
+	box-shadow: 10px 10px 10px grey;
+
+}
